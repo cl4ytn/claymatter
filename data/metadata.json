@@ -1,0 +1,722 @@
+[
+  {
+    "id": "bio_000",
+    "text": "I'm a software engineer passionate about machine learning, optimization, and discovering new ways to solve problems. Across my industry and hospitality experience, I learned to adapt and coordinate with cross-functional teams in fast-paced environments. Currently seeking software and AI engineering graduate roles to make a meaningful impact.",
+    "category": "background",
+    "source": "..\\data\\corpus\\background\\bio.md",
+    "header": "About",
+    "word_count": 47
+  },
+  {
+    "id": "bio_001",
+    "text": "I graduated from the Univeristy of Queensland and the University of Indonesia with a Bachelor of Computer Science in August 2026. I got into the University of Indonesia's double degree program; a highly competitive intake that prepares students to study abroad in partner universities. I received the UQ Global Connect scholarship awarded to top performing students from the University of Indonesia. I dedicated my electives to machine learning, pattern recognition and analysis, operations research and mathematical planning, functional programming, and cloud computing.",
+    "category": "background",
+    "source": "..\\data\\corpus\\background\\bio.md",
+    "header": "Education",
+    "word_count": 82
+  },
+  {
+    "id": "bio_002",
+    "text": "I have a year and a half of hospitality experience, 4 months as a barista, and just over a year as a waiter. In preparing to move to Brisbane, Australia, I wanted to learn how to make coffee, hoping that I would be able to work as a barista in Australia. I started out at Corner28, a small coffee shop where I learned the ropes and how to make Indonesian traditional drinks. After 3 months, I took a month's apprenticeship from a well known Japanese specialty coffee and matcha chain which is where I learned to work extremely fast where people would fill the room lining up to taste our specialty coffee and ceremonial grade matcha. When I finally moved to Australia, I found work at an Indonesian restraurant called Sendok Garpu by Bunda Alicia. Here, I learned how to prioritize my tasks efficiently because I had to.",
+    "category": "background",
+    "source": "..\\data\\corpus\\background\\bio.md",
+    "header": "Hospitality Experience",
+    "word_count": 148
+  },
+  {
+    "id": "bio_003",
+    "text": "The front of house consisted of 2 waiters and 1 bar tender, while the back of house had 3 cooks and 1 dish washer. During peak hours, you had to be able to turn on a dime as one mistake could set everyone back. It was a family restraurant with lovely owners that the team felt a significant resposibility in our work. I was eventually entrusted with opening and closing the restaurant, training new staff, and maintaining inventory.",
+    "category": "background",
+    "source": "..\\data\\corpus\\background\\bio.md",
+    "header": "Hospitality Experience",
+    "word_count": 78
+  },
+  {
+    "id": "bio_004",
+    "text": "I first got interest in machine learning when I studied cloud computing and I realized that it would just about visualizing insights but being able to make actionable insights based on statistical predictions. I always found myself drawn to practical problems more than abstract ones because drafting a pipeline to solve a real problem makes more sense to me as a top down approach to learning instead of a bottom up. I'm proud of my eagerness to learn and knowing that there is always something to learn from others.",
+    "category": "background",
+    "source": "..\\data\\corpus\\background\\bio.md",
+    "header": "Drive",
+    "word_count": 89
+  },
+  {
+    "id": "bio_005",
+    "text": "I am primarily targeting AI or machine learning engineer roles to pursue my passion, but I have a strong foundation as a software developer given my interests also lie in dynamic and decalarative programming. I want to learn more about Large Language Models and Reinforcement Learning, I want to see how far we can push current technologeis and what novel approaches look like. I would want a recruiter to know that I am always pursuing more and that the opportunity to learn is where I want to be.",
+    "category": "background",
+    "source": "..\\data\\corpus\\background\\bio.md",
+    "header": "Career",
+    "word_count": 88
+  },
+  {
+    "id": "resume_000",
+    "text": "During my time as Head Waiter at Sendok Garpu by Bunda Alicia in Brisbane from June 2025 to August 2026, I managed up to 25 tables simultaneously during peak service hours. In this role, I bridged cultural and culinary gaps by translating Indonesian cuisine for local patrons, ensuring a smooth and welcoming dining experience in a fast-paced hospitality environment.\n\n---",
+    "category": "background",
+    "source": "..\\data\\corpus\\background\\resume.md",
+    "header": "Managing Peak Service and Customer Relations",
+    "word_count": 60
+  },
+  {
+    "id": "resume_001",
+    "text": "During my internship at Momofin in Jakarta from September to December 2024, I implemented Spring Aspect Oriented audit trailing to decouple logging features from two document service classes. I also built a paginated interface utilizing Spring Data JPA Specifications across five fields to support compliance queries filtered by user, action, document, and date range. To ensure security, I eliminated organizational data leaks by scoping every audit query strictly to the organization resolved from the JSON web token.\n\n---",
+    "category": "background",
+    "source": "..\\data\\corpus\\background\\resume.md",
+    "header": "Implementing Audit Trailing and Compliance Queries",
+    "word_count": 78
+  },
+  {
+    "id": "resume_002",
+    "text": "During my software engineering internship at Forest Carbon in Jakarta from January to March 2023, I collaborated closely with the engineering team using Git and Bitbucket for version control, while managing my first-year university coursework in parallel. I learned and applied Firebase and Cloud Functions to successfully contribute to assigned development tasks.",
+    "category": "background",
+    "source": "..\\data\\corpus\\background\\resume.md",
+    "header": "Collaborative Development and Cloud Functions",
+    "word_count": 52
+  },
+  {
+    "id": "contact-info_000",
+    "text": "claytoninagle@gmail.com\n\nlinkedin.com/in/claytoninagle",
+    "category": "contact",
+    "source": "..\\data\\corpus\\contact\\contact-info.md",
+    "header": "Email",
+    "word_count": 2
+  },
+  {
+    "id": "contact-info_001",
+    "text": "github.com/cl4ytn\n\ncl4ytn.com",
+    "category": "contact",
+    "source": "..\\data\\corpus\\contact\\contact-info.md",
+    "header": "GitHub",
+    "word_count": 2
+  },
+  {
+    "id": "meta_000",
+    "text": "This project is the centerpiece of my portfolio website: a live, interactive AI chatbot that\nlets recruiters and visitors talk to an AI version of me. The goal is to demonstrate real,\nend-to-end AI engineering skill, not just a wrapper around an API. That means building and\nvisualizing my own small routing model, fine-tuning an open-source LLM on my own voice, and\ndoing all of it on a budget close to zero without sacrificing the experience for a recruiter\nseeing it live for the first time.\n\nRealistic usage pattern: this is a portfolio site, not a product. Traffic will be low and\nbursty (a handful of recruiters during a job search), not sustained. Every decision below is\nmade for that traffic pattern, not for scale.",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Project Overview",
+    "word_count": 125
+  },
+  {
+    "id": "meta_001",
+    "text": "- **Frontend:** React\n- **Visualization:** WebGPU (3D, real-time)\n- **Backend:** FastAPI\n- **Routing model:** ClayMatter (custom NumPy model, \"clAy-I\")\n- **Storage:** Vector database (RAG)\n- **LLM:** Fine-tuned open-source model",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Tech Stack",
+    "word_count": 29
+  },
+  {
+    "id": "meta_002",
+    "text": "- User enters a prompt in the React frontend\n- React sends the prompt to FastAPI via HTTP\n- FastAPI passes the prompt to **ClayMatter**, my custom NumPy routing model\n  - ClayMatter tokenizes and embeds the input\n  - ClayMatter **classifies the prompt into a task category** (e.g.",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Architecture Flow",
+    "word_count": 47
+  },
+  {
+    "id": "meta_003",
+    "text": "project questions,\n    background questions, technical deep dive)\n  - This classification step is what gets visualized in WebGPU \u00e2\u20ac\u201d it's my own model, so I can\n    expose exactly what I want (not the fine-tuned LLM's internals, which aren't accessible\n    on serverless providers anyway)\n- The category determines which context \"bucket\" gets retrieved from the vector database (RAG)\n- The retrieved context plus the original prompt is routed to the fine-tuned LLM\n- The LLM generates a response (via serverless inference)\n- Simultaneously, a WebSocket (or SSE) stream sends ClayMatter's activations from FastAPI to React\n- Client-side compute shaders update the 3D WebGPU visualization in real time\n- The final output is streamed back to the user in the chat UI",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Architecture Flow",
+    "word_count": 119
+  },
+  {
+    "id": "meta_004",
+    "text": "*Proposed design. My diagram only shows ClayMatter as a box that tokenizes, embeds, and feeds\n\"Buckets\" and RAG, so the internals below are a plan to build against and adjust as I go.*\n\nClayMatter is a small classifier-style model written from scratch in NumPy: no PyTorch, no\nautograd. It reads a prompt, turns it into a vector, and passes it through a few dense layers\nto decide which category (bucket) the prompt belongs to. That decision controls what context\ngets retrieved and which system prompt the LLM receives. Because the whole model is a handful\nof small matrices, it runs in well under a millisecond on CPU, costs nothing per request, and\nevery neuron is inspectable, which is what makes it a good source for the WebGPU visualization.",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "ClayMatter: Components & Architecture",
+    "word_count": 128
+  },
+  {
+    "id": "meta_005",
+    "text": "```\nprompt\n  -> Tokenizer      (text -> token IDs)\n  -> Embedding      (IDs -> vectors, shape: tokens x 64)\n  -> Pooling        (mean over tokens -> one 64-dim vector)\n  -> Dense + ReLU   (64 -> 128)\n  -> Dense + ReLU   (128 -> 64)\n  -> Dense + Softmax (64 -> K categories)\n  -> Router         (category + confidence -> bucket, system prompt)\n```",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Forward Pass at a Glance",
+    "word_count": 58
+  },
+  {
+    "id": "meta_006",
+    "text": "- **Tokenizer**\n  - Lowercase, strip punctuation, split into words; unknown words map to an `<UNK>` token\n  - Vocabulary (~3-5k tokens) built from my training prompts and saved as JSON\n  - Optional upgrade: simple BPE for better handling of typos and rare words\n- **Embedding layer**\n  - A lookup matrix of shape `vocab x 64`, one row per token\n  - Trained from scratch on my data (or initialized from a small pretrained embedding)\n- **Pooling**\n  - Mean of the token vectors produces one fixed-size vector per prompt\n  - Simple and fast; loses word order, which is fine for topic-level routing\n  - Stretch goal: add one small self-attention layer so it behaves more like a real (tiny)\n    language model and gives the visualization richer structure\n- **Hidden layers**\n  - Two dense layers (64 -> 128 -> 64) with ReLU activations\n  - Roughly 350k parameters total, about 1.4 MB in float32\n- **Output head**\n  - Dense layer into softmax over K categories, giving a probability per bucket\n  - Also returns a **confidence score** (top probability)\n- **Router logic**\n  - Maps the winning category to: a vector DB bucket, a system prompt, and generation settings\n  - Low confidence (below a threshold) falls back to a general bucket, or merges the top 2\n    buckets, instead of guessing\n- **Activation tap**\n  - Records activations from each layer on every forward pass\n  - Keeps only the top-k strongest neurons per layer, so the stream stays small\n  - Sends those indices and values to the frontend for the WebGPU visualization",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Components",
+    "word_count": 252
+  },
+  {
+    "id": "meta_007",
+    "text": "- Projects (what I've built)\n- Background and experience\n- Technical deep dive (how something works)\n- Skills and stack\n- Hiring and contact (availability, resume, how to reach me)\n- Casual chat (the \"sounds like me\" mode)\n- Meta (how this chatbot works)\n- Out of scope (redirect politely)",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Starter Categories (K = 6 to 8)",
+    "word_count": 50
+  },
+  {
+    "id": "meta_008",
+    "text": "- Buckets are category-specific slices of the vector database, implemented as namespaces or\n  metadata filters\n- ClayMatter's category picks the bucket, so retrieval only searches relevant content\n- Smaller retrieval scope means more relevant context and fewer tokens sent to the LLM",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "What \"Buckets\" Means Here",
+    "word_count": 42
+  },
+  {
+    "id": "meta_009",
+    "text": "- Loss: cross-entropy; optimizer: mini-batch SGD or Adam, with backpropagation written by hand\n- Data: labeled example prompts per category, written by hand and expanded with synthetic\n  variations (paraphrases, typos, casual phrasing)\n- Train/validation split, tracking accuracy and a confusion matrix to see which buckets blur\n- Retrain whenever categories or content change significantly",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Training",
+    "word_count": 54
+  },
+  {
+    "id": "meta_010",
+    "text": "- Weights saved in a compact binary format (`.npz` or raw float16), vocabulary as JSON\n- Loaded once at FastAPI startup, ideally memory-mapped or in shared memory, so there is no\n  per-request I/O\n- Fits comfortably inside Render's 512 MB free-tier RAM limit",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Serving",
+    "word_count": 43
+  },
+  {
+    "id": "meta_011",
+    "text": "- Golden test vectors: fixed prompts with known token IDs, embeddings, and outputs, so\n  preprocessing in training and production can't silently drift apart\n- Check the tokenizer, pooling, and softmax output separately\n- A held-out set of tricky prompts (multi-topic, off-topic, gibberish) to check fallback behavior",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Testing",
+    "word_count": 46
+  },
+  {
+    "id": "meta_012",
+    "text": "- **Embedding mismatch:** ClayMatter's own embeddings are for classification, while RAG\n  retrieval needs embeddings that match how the vector DB was indexed. Simplest option is to\n  use a separate small embedding model (e.g. MiniLM) for retrieval and keep ClayMatter's\n  embeddings only for routing\n- **Multi-intent prompts:** \"Tell me about your projects and how to contact you\" spans two\n  buckets. Options are multi-label output or retrieving from the top 2 categories\n- **Small dataset risk:** with limited labeled prompts, the model may overfit. Synthetic\n  augmentation and a held-out test set help\n- **Confidence calibration:** raw softmax scores can be overconfident, so tune the fallback\n  threshold on validation data\n- **Visualization mapping:** decide whether nodes are neurons per layer (force-directed graph)\n  or activation intensity per layer (pulsing heatmap)\n\n---",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Open Design Decisions",
+    "word_count": 127
+  },
+  {
+    "id": "meta_013",
+    "text": "My personal-context corpus (resume, project write-ups, bio, FAQ) is small: likely a few hundred\nto a few thousand text chunks. At that size a hosted vector database is overkill. The plan is\nan **embedded index built offline and shipped inside the Docker image**, loaded into memory when\nFastAPI starts. It costs nothing, adds no network hop, and can't cold-start separately from the\nbackend. On the original diagram, \"Buckets\" is the category filter, \"RAG\" is the retriever plus\ncontext assembler, and \"Vector DB\" is the index artifact described below.",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Vector Database & RAG Architecture",
+    "word_count": 88
+  },
+  {
+    "id": "meta_014",
+    "text": "```\nBUILD TIME (offline script, run on my laptop)\n  source docs -> clean -> chunk -> tag (bucket + metadata) -> embed -> write index files\n\nQUERY TIME (inside FastAPI, per request)\n  ClayMatter category -> bucket filter\n  prompt -> embed -> similarity search (within bucket) -> top-k chunks\n  -> context assembler (token budget, source labels) -> LLM prompt\n```",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Two Phases",
+    "word_count": 59
+  },
+  {
+    "id": "meta_015",
+    "text": "- **Source corpus**\n  - Resume, project READMEs, blog posts, bio, FAQ answers, \"how this site works\" notes\n  - Public information only (prompt injection could expose anything stored here)\n- **Chunking**\n  - Split by headings/paragraphs into roughly 200-400 token chunks with 10-15% overlap\n  - Each chunk keeps its source title and section so answers can cite where they came from\n- **Metadata per chunk**\n  - `id`, `text`, `source`, `section`, `bucket` (one or more categories), `updated_at`\n  - A shared \"general\" bucket that is always searched alongside the routed one\n- **Embedding model**\n  - Small, CPU-friendly, 384-dim (e.g.",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Components",
+    "word_count": 95
+  },
+  {
+    "id": "meta_016",
+    "text": "MiniLM or bge-small, via ONNX)\n  - The same model must embed both the corpus and live queries, and its name is pinned in a manifest\n- **Index artifact (the \"vector DB\")**\n  - `vectors.npy`: one row per chunk (float32, or float16 to halve the size)\n  - `chunks.jsonl`: text and metadata, row-aligned with the vectors\n  - `manifest.json`: embedding model, dimensions, chunk count, category list, build date\n  - Size math: 2,000 chunks x 384 dims x 4 bytes is about 3 MB\n- **Bucket partitioning**\n  - ClayMatter's category becomes a boolean mask over rows, so only relevant chunks are searched\n  - Low ClayMatter confidence: search the top 2 buckets instead of one\n- **Retriever**\n  - Embed the prompt, take cosine similarity against masked rows, return the top-k (k of 4-5)\n  - Drop results below a similarity threshold, and dedupe near-identical chunks\n  - If nothing clears the threshold, tell the LLM there is no relevant context rather than padding\n- **Context assembler**\n  - Orders chunks by score, labels each with its source, and caps the total (about 1,000-1,500 tokens)\n  - Wraps retrieved text in clear delimiters and tells the LLM to treat it as data, not instructions\n- **Store interface**\n  - A small `search(query_vec, buckets, k)` abstraction so the backend can be swapped later\n    without touching the rest of the pipeline",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Components",
+    "word_count": 217
+  },
+  {
+    "id": "meta_017",
+    "text": "- **NumPy brute force + JSON metadata (recommended start)**\n  - Search is one matrix multiply; comfortable into the tens of thousands of chunks\n  - No extra dependencies, and it fits the \"I built this myself\" story alongside ClayMatter\n  - Trade-off: no built-in updates, which is fine because the index is rebuilt offline\n- **FAISS (faiss-cpu)**\n  - Free, fast, and the natural upgrade if the corpus grows large enough to need approximate search\n  - Trade-off: extra dependency, unnecessary at this scale\n- **sqlite-vec, Chroma, or LanceDB (embedded)**\n  - Free, file-based, with persistence and richer metadata queries\n  - Chroma has the simplest API but is the heaviest for a 512 MB free-tier instance\n- **Qdrant Cloud free tier (hosted)**\n  - Free 1 GB cluster, no credit card, with strong metadata filtering\n  - Good \"real vector DB\" showcase or upgrade path\n  - Trade-off: a network hop and another service that could be idle or cold; check its inactivity policy\n- **Pinecone free starter (hosted)**\n  - Roughly 100k vectors free and zero ops\n  - Trade-off: vendor lock-in and a network hop, with more capacity than this project needs\n- **Supabase (pgvector) or Upstash Vector**\n  - Both work, but each adds a service to manage for no real gain at this size",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Options Compared",
+    "word_count": 207
+  },
+  {
+    "id": "meta_018",
+    "text": "- **Embedded index baked into the image**, behind the `search()` interface\n- Why: $0 cost, no network latency, no second cold start, no quota, no extra failure point\n- Trade-off: updating content means rebuilding the index and redeploying (a git push does this)",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Decision",
+    "word_count": 43
+  },
+  {
+    "id": "meta_019",
+    "text": "- Render's free tier has an ephemeral filesystem, so the index must be a read-only artifact\n  committed with the code, not something written at runtime\n- Load (or memory-map) the index at FastAPI startup, then run a dummy query during the warm-up\n  ping so the first real query is fast\n- Update workflow: edit source docs, re-run the ingestion script, commit the new index files,\n  push to redeploy. This is the answer to RAG staleness",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Deployment Notes",
+    "word_count": 75
+  },
+  {
+    "id": "meta_020",
+    "text": "- Small retrieval eval set: 20-30 realistic recruiter questions, each with the chunk(s) that should come back\n- Track recall@k per bucket, and use it to tune chunk size, k, and the similarity threshold\n- Golden test: a fixed query must return the same top chunks across rebuilds (catches\n  embedding-model or chunking drift)\n- Check that out-of-scope prompts return \"no relevant context\" instead of weak matches",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Testing & Quality",
+    "word_count": 66
+  },
+  {
+    "id": "meta_021",
+    "text": "- **Embedding model memory:** running MiniLM or bge-small in-process on Render's 512 MB free tier\n  needs measuring. Fallback: embed queries through a hosted embedding API, at the cost of one more network call\n- **Multi-bucket chunks:** decide whether a chunk can live in several buckets (better recall) or exactly one (cleaner routing)\n- **Hybrid search:** adding keyword matching (BM25) alongside vectors helps with exact names and tech terms like \"FastAPI\" or \"WebGPU\"\n- **Reranking:** a small reranker on the top 10 could sharpen results, but adds latency and memory\n- **Scale trigger:** if the corpus passes tens of thousands of chunks, move to FAISS or Qdrant behind the same interface\n\n---",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Open Design Decisions",
+    "word_count": 111
+  },
+  {
+    "id": "meta_022",
+    "text": "- Base model: a small open-source model, roughly 1B\u00e2\u20ac\u201c8B parameters (e.g. Llama, Qwen)\n- Fine-tuning method: **LoRA** (Low-Rank Adaptation)\n  - Freezes the base model and trains small add-on matrices instead of the full model\n  - Much cheaper/faster than full fine-tuning; adapter files are typically just a few MB\n  - Trainable for free on a Google Colab T4 GPU\n- Training data: my own chat logs (goal: make it actually sound like how I text, not generic\n  chatbot English)\n- Tooling: Hugging Face **PEFT** library\n- **Groq note:** Groq is inference-only and does not support fine-tuning. LoRA inference on\n  Groq exists but is enterprise-only by request \u00e2\u20ac\u201d not available on a free/hobby account. This\n  is a dead end for the \"sounds like me\" goal, not a loophole to look for later.",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Fine-Tuning Plan",
+    "word_count": 130
+  },
+  {
+    "id": "meta_023",
+    "text": "- **Decision:** train the LoRA adapter via free Colab + Hugging Face PEFT, then serve it\n  through Hugging Face rather than Groq, since Groq can only ever serve a generic stock model",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Fine-Tuning Plan",
+    "word_count": 32
+  },
+  {
+    "id": "meta_024",
+    "text": "- Rather than baking reasoning into the fine-tune itself, prompt the model to reason step by\n  step at inference time\n- Stream the reasoning as a separate channel from the final answer\n- Same visual/portfolio payoff as training it in, with far less complexity\n\n---",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Chain of Thought / Reasoning",
+    "word_count": 45
+  },
+  {
+    "id": "meta_025",
+    "text": "**Bottom line: this entire project can run at $0/month.** The only optional paid step is\nRender's $7/month Starter plan if I ever decide cold starts aren't acceptable \u00e2\u20ac\u201d not needed\nto launch.",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Hosting & Cost Plan",
+    "word_count": 32
+  },
+  {
+    "id": "meta_026",
+    "text": "- 750 free instance hours per workspace per month (covers a full month of runtime)\n- 512 MB RAM, fractional CPU\n- ~100 GB bandwidth/month, 500 build minutes/month\n- Free web services **sleep after 15 minutes of inactivity**\n- Cold start on wake: **30\u00e2\u20ac\u201c60 seconds** (confirmed acceptable, not minutes)\n- A custom domain can still be purchased and pointed at a free-tier Render service \u00e2\u20ac\u201d hosting\n  tier and domain ownership are unrelated\n- Plan: accept the cold start and turn it into part of the show (see Optimizations)\n- Paid alternative if needed later: Starter plan at $7/month for always-on (no cold start)",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Backend (FastAPI) \u00e2\u20ac\u201d Render Free Tier",
+    "word_count": 103
+  },
+  {
+    "id": "meta_027",
+    "text": "- Serves the actual fine-tuned LoRA model \u00e2\u20ac\u201d this is non-negotiable if \"sounds like me\" is the\n  point, since Groq cannot serve a fine-tune at all\n- Free serverless inference tier, or a scale-to-zero dedicated endpoint\n- **Cold start: roughly 30\u00e2\u20ac\u201c60 seconds** for a small model, potentially longer for bigger ones,\n  since loading weights into GPU memory is the actual bottleneck (bandwidth-bound, not\n  compute-bound)\n- Free tier is realistically sufficient for portfolio-level traffic; unlikely to be hit",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "LLM Inference \u00e2\u20ac\u201d Hugging Face (primary choice)",
+    "word_count": 77
+  },
+  {
+    "id": "meta_028",
+    "text": "- Fast (LPU hardware), generous free tier: roughly 30 requests/minute, 6,000\u00e2\u20ac\u201c8,000 tokens/minute,\n  and a daily cap in the hundreds to low thousands of requests depending on model\n- **Cannot serve the fine-tuned voice model** \u00e2\u20ac\u201d would only ever sound like a generic assistant,\n  not like me\n- Only worth adding later as a fast fallback for simple queries on a stock model, not as the\n  main path\n- Not required to launch or stay in budget",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Groq \u00e2\u20ac\u201d optional, not required",
+    "word_count": 76
+  },
+  {
+    "id": "meta_029",
+    "text": "- Skip a hosted vector DB \u00e2\u20ac\u201d use an embedded index built offline and baked into the Docker image\n- Free, fast, no extra service or cold start; sufficient for a personal-context-sized dataset\n- Full design, options, and trade-offs are in \"Vector Database & RAG Architecture\" above",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Vector Database",
+    "word_count": 47
+  },
+  {
+    "id": "meta_030",
+    "text": "- Worst case, a first-time visitor triggers **two cold starts back to back**: Render waking up\n  (30\u00e2\u20ac\u201c60s) and Hugging Face waking up (30\u00e2\u20ac\u201c60s) \u00e2\u20ac\u201d potentially **up to 1\u00e2\u20ac\u201c2 minutes** before the\n  first token appears\n- Mitigation: fire warm-up requests to **both** Render and Hugging Face the instant the page\n  loads, not when the user hits send \u00e2\u20ac\u201d by the time a visitor reads the hero section and types\n  a question, both services are likely already warm\n- The visualization must carry this wait (see Optimizations) \u00e2\u20ac\u201d without it, a 1\u00e2\u20ac\u201c2 minute silent\n  wait will read as broken, not \"thinking\"",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Stacked Cold Start Reality Check",
+    "word_count": 99
+  },
+  {
+    "id": "meta_031",
+    "text": "- Cloudflare Turnstile (free) in front of the Render backend\n- Verifies a token on the FastAPI side before a request is allowed to reach ClayMatter or the\n  LLM, so bots never consume free-tier quota at all\n- Mostly invisible to real visitors, only challenges suspicious traffic",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Bot Protection",
+    "word_count": 47
+  },
+  {
+    "id": "meta_032",
+    "text": "- **Fire warm-up pings to Render and Hugging Face on page load**, not on first message, to\n  collapse the stacked cold start window described above\n- Cache embeddings for repeated/similar recruiter questions (e.g. \"what's your background\")\n- Quantize the LoRA adapter and embedding model (8-bit or 4-bit) to speed up cold starts\n- Stream tokens to the frontend as they generate rather than waiting for the full response\n- Store the NumPy routing model in a compact binary format, loaded into shared memory at\n  startup to reduce I/O latency\n- Visualize sparse representations or top-k indices in WebGPU rather than full dense activations\n- Use Docker on Render for consistent deploys",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Optimizations",
+    "word_count": 111
+  },
+  {
+    "id": "meta_033",
+    "text": "- **Stacked cold starts:** Render + Hugging Face waking up sequentially can mean up to 1\u00e2\u20ac\u201c2\n  minutes of dead air on a visitor's first message if not pre-warmed and visually disguised\n- **State sync** between WebSocket stream and React UI\n- **Rate limiting / abuse:** a public endpoint could be hammered, burning through free-tier\n  budget or getting spammed \u00e2\u20ac\u201d mitigated by Cloudflare Turnstile\n- **Prompt injection:** visitors can try to make the model reveal system prompts or break\n  character\n- **RAG staleness:** the vector database needs to stay updated as real projects/experience\n  change, otherwise it gives outdated answers\n- **Sensitive info in chat history:** need a policy for storing/handling visitor conversations\n- **Browser compatibility:** WebGPU support is inconsistent (especially Safari, older devices)\n- **Unit testing:** preprocessing logic must match exactly between training and production",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Hurdles / Risks",
+    "word_count": 134
+  },
+  {
+    "id": "meta_034",
+    "text": "- **Honesty/framing:** be upfront in the UI that this is an AI speaking in my voice, not me\n  directly \u00e2\u20ac\u201d both ethically and so recruiters aren't misled\n- **Graceful fallback:** define what happens if the LLM is down, cold-starting, or the free\n  tier is exhausted, rather than the page breaking or hanging silently\n- **Accessibility:** the chat interface should still work with a screen reader even with the\n  flashy visualization\n- **PII scrubbing:** scrub personal info from chat logs; don't train on visitor conversations\n  without consent\n- **Public-only RAG content:** only put information in the RAG store that's safe to be public,\n  since prompt injection could expose anything stored there\n- **Do I need Groq at all?** For this traffic pattern, no \u00e2\u20ac\u201d Hugging Face alone covers the\n  scope.",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Considerations / Points of Reconsideration",
+    "word_count": 129
+  },
+  {
+    "id": "meta_035",
+    "text": "Adding Groq is a \"nice to have for speed\" decision, not a budget necessity, and it\n  can't carry the fine-tuned voice anyway",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Considerations / Points of Reconsideration",
+    "word_count": 22
+  },
+  {
+    "id": "meta_036",
+    "text": "- Force-directed graph or pulsing heatmap for the 3D visualization\n- Small eval set comparing base model + RAG vs. the fine-tuned version\n- Lightweight tracing/logging (e.g. Langfuse or structured logs) plus a cost dashboard\n- A \"How it works\" toggle that reveals the architecture to curious visitors\n- A model card and README with a demo GIF for the repo\n- Latency targets: first visual under 300ms (should be near-instant, no cold start involved),\n  first token under 2s once both services are warm",
+    "category": "meta",
+    "source": "..\\data\\corpus\\meta\\meta.md",
+    "header": "Ideas to Explore Further",
+    "word_count": 84
+  },
+  {
+    "id": "ar-battleship-reflection_000",
+    "text": "Augmented reality (AR) displays virtual assets over physical objects through a mobile phone's camera. Ichiban Group developed AR Battleship to blend a ten-by-ten grid boardgame with AR, automating rule management and game-state tracking via a fiducial marker recognition system. As the key game logic developer, my role aimed to build a clean, testable Unity project that enforced game rules, tracked win/loss conditions, and seamlessly integrated a virtual game engine with the tabletop experience.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-reflection.md",
+    "header": "AR Battleship Project Overview",
+    "word_count": 73
+  },
+  {
+    "id": "ar-battleship-reflection_001",
+    "text": "Examining AR Battleship through the Rights and Justice perspectives highlighted critical privacy concerns. Permitting camera access without transparent prompts risked users' digital autonomy and exposed them to third-party infrastructure. Furthermore, our use of a copyrighted Metal Gear Solid soundtrack bypassed property rights, while adopting Unity Relay created dependency vulnerabilities following Unity's per-install fee policy changes. Complying with ethical frameworks requires looking beyond immediate solutions to reinforce long-term user trust and rights.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-reflection.md",
+    "header": "Ethics and Privacy in AR Development",
+    "word_count": 71
+  },
+  {
+    "id": "ar-battleship-reflection_002",
+    "text": "To resolve early logic conflicts and satisfy our project brief, I took complete ownership of building a decoupled C# architecture. I used .NET to separate the system into a Domain project for core board game rules and an Application project to orchestrate state transitions. To ensure reliability, I built two test suites using NUnit to test every function across both components. This structural choice ensured our core game loop was foolproof, allowing teammates to rely on stable underlying logic.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-reflection.md",
+    "header": "Engineering a Decoupled C# Architecture",
+    "word_count": 79
+  },
+  {
+    "id": "ar-battleship-reflection_003",
+    "text": "Our hasty project management created a massive bottleneck for multiplayer functionality using Unity Relay. Because I spent extensive time developing the core logic in isolation, my teammate Pascal was left waiting on my final code to implement the networking architecture. Although Pascal successfully integrated Unity Relay by week twelve, our lack of parallel scheduling triggered immense team pressure. Future projects require publishing mocked interfaces and dummy data structures early to prevent team members from waiting on dependent tasks.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-reflection.md",
+    "header": "Multiplayer Scheduling and Bottlenecks",
+    "word_count": 78
+  },
+  {
+    "id": "ar-battleship-reflection_004",
+    "text": "We conducted usability tests using specific user tasks and System Usability Scale questionnaires, which uncovered major ambiguities in our user interface. Players struggled due to a lack of interactive feedback, tiny text, and unintuitive fiducial markers. Through the Justice Perspective, we realized an unfair cognitive overload on uninitiated players. Iteratively integrating this feedback allowed us to fix interface gaps before final submission, proving that usability testing must be continuous rather than a final-week afterthought.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-reflection.md",
+    "header": "Prototype Usability Testing and UI Evaluation",
+    "word_count": 74
+  },
+  {
+    "id": "ar-battleship-reflection_005",
+    "text": "Our final development weeks involved massive integration chaos, including UI overhauls, broken singleplayer logic, and a build too large to submit. Our primary failing was a lack of ongoing communication regarding friction points and progress. By week twelve, we coordinated to soft-submit early, but realizing the value of transparency taught me to adopt agile practices like daily stand-ups. Identifying friction early allows teams to divide and conquer effectively before facing last-minute technical debt.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-reflection.md",
+    "header": "Final Crunch and Lessons on Transparency",
+    "word_count": 73
+  },
+  {
+    "id": "ar-battleship-technical-documentation_000",
+    "text": "AR-Battleship is a hybrid augmented reality reimagining of the classic strategy board game. Built for mobile devices using Unity and Vuforia, the prototype replaces traditional physical boards and manual bookkeeping with digital tracking driven by physical AR markers. Players use a board marker for the 10x10 grid, an aim marker to select target cells, and a confirm marker to execute shots. This design reduces setup overhead and prevents accidental disruption of the game state while preserving the tactile, strategic appeal of a tabletop game.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-technical-documentation.md",
+    "header": "AR-Battleship Project Overview",
+    "word_count": 84
+  },
+  {
+    "id": "ar-battleship-technical-documentation_001",
+    "text": "The game engine is split into three decoupled layers: domain, application, and Unity scripts. The domain layer contains the core rules in a Board and BattleshipGame class, enforcing turn order, boundary checks, and win conditions using typed Result returns rather than exceptions. A dedicated NUnit dotnet project was used to unit test this logic independently of Unity. The application layer handles player snapshots and enforces fog of war, ensuring opponent ship data remains hidden until sunk. The GameManager MonoBehaviour routes calls between single-player and multiplayer sessions while keeping the rules engine isolated from UI and AR dependencies.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-technical-documentation.md",
+    "header": "AR-Battleship Architecture and Game Engine",
+    "word_count": 97
+  },
+  {
+    "id": "ar-battleship-technical-documentation_002",
+    "text": "Multiplayer functionality supports a two-player competitive format where one user acts as the host and the other connects as a client. Unity Relay was chosen as the networking solution, allowing players to connect via a generated join code without directly exposing their IP addresses or network ports. The networking layer is kept separate from the core game rules, acting only to transmit player actions like ship placements and firing coordinates. This separation ensures that network transmission delays or dropped messages cannot result in an inconsistent board state, as all actions are validated by the domain rules engine.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-technical-documentation.md",
+    "header": "AR-Battleship Networking and Unity Relay",
+    "word_count": 97
+  },
+  {
+    "id": "ar-battleship-technical-documentation_003",
+    "text": "The augmented reality system uses Vuforia Engine for multi-target image detection. Three physical markers govern board placement, targeting, and firing, creating a two-step confirmation flow that prevents accidental shots. The AR layer functions strictly as a visual and input interface, subscribing to GameManager events without modifying game state directly. Additionally, a manual coordinate input system was implemented as a fallback for situations with poor lighting or limited physical space. This fallback also allowed the game logic and UI layers to be tested without requiring physical markers to be present.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-technical-documentation.md",
+    "header": "AR-Battleship Augmented Reality and Manual Fallbacks",
+    "word_count": 89
+  },
+  {
+    "id": "ar-battleship-technical-documentation_004",
+    "text": "To make the game more immersive than simple 2D grids, open-license 3D ship models were sourced and reviewed for consistent scale and art style. Using Blender, ships were split into separate segment prefabs that spawn progressively as the opponent successfully lands hits. These ship section prefabs were configured as child objects of their respective tiles, with rotations and coordinates hard-coded for both horizontal and vertical cases to prevent runtime bugs. Water prefabs were also used to construct the 10x10 grid, providing a thematic sea environment that visually reflects the underlying domain state.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-technical-documentation.md",
+    "header": "AR-Battleship 3D Models and Visual Design",
+    "word_count": 92
+  },
+  {
+    "id": "ar-battleship-technical-documentation_005",
+    "text": "The project addresses security and privacy by adhering to Australian Privacy Principles, collecting only the minimum data required for gameplay without requiring user accounts or persistent storage. Camera usage is strictly limited to recognizing the three designated AR game markers and does not record or upload environmental data or faces. Network security is maintained by treating join codes as temporary access tokens and routing actions through Unity Relay, where only minimal game action commands are transmitted rather than identifying user information.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-technical-documentation.md",
+    "header": "AR-Battleship Security and Privacy Considerations",
+    "word_count": 81
+  },
+  {
+    "id": "ar-battleship-usability_000",
+    "text": "Before each usability testing session for AR Battleship, I structured the opening statements to set expectations and record feedback. I started with a recording notice to get participant consent for screen and audio recording. Next, I provided a think-aloud briefing, asking users to voice whatever came to mind, what they looked at, what they tried to do, and what felt confusing or surprising with no wrong answers. Finally, I established context framing, explaining that the game was a version of Battleship and that the buttons represented actions destined for an augmented reality experience.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-usability.md",
+    "header": "AR Battleship Usability Testing Setup",
+    "word_count": 93
+  },
+  {
+    "id": "ar-battleship-usability_001",
+    "text": "For Task 1, I instructed participants to go ahead and start a single-player game however it felt natural. As a facilitator, I noted whether participants found the single-player entry point without hesitation, with scanning, or with backtracking. Upon completion, I checked in by asking if the experience matched their expectations and if anything was surprising.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-usability.md",
+    "header": "AR Battleship Task 1: Single-Player Entry Point",
+    "word_count": 55
+  },
+  {
+    "id": "ar-battleship-usability_002",
+    "text": "For Task 2, I prompted participants to place all their ships. Before they acted, I asked for their first instinct on how to go about placement and what information on the screen helped them decide where to start. During the task, I checked if it worked as expected. After completion, I asked if placement worked how they imagined and if there was anything they wanted to do that they couldn't. As a facilitator, I recorded placement strategies as either sequential or strategic, noted any rotation confusion, and checked whether grid feedback like valid or invalid placement indicators was understood.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-usability.md",
+    "header": "AR Battleship Task 2: Ship Placement Strategy",
+    "word_count": 99
+  },
+  {
+    "id": "ar-battleship-usability_003",
+    "text": "For Task 3, I had participants take their turn. Before they acted, I asked what they thought they were able to do and what the first thing they would try was. After their first shot, I asked what the result told them and whether it matched their expectations. As a facilitator, I observed whether hit or miss feedback was immediately understood, whether participants scanned previous shots to inform strategy, and noted any comments regarding spatial orientation.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-usability.md",
+    "header": "AR Battleship Task 3: Taking the First Shot",
+    "word_count": 76
+  },
+  {
+    "id": "ar-battleship-usability_004",
+    "text": "For Task 4, I asked participants to play through until the game ended while continuing to think aloud. During the task, I asked for their current read on the game, whether there was anything they wished they could see but couldn't, and if anything felt like it would make more sense in physical space. As a facilitator, I observed whether participants lost track of turn state, missed opponent damage feedback, or expressed confusion about win and loss conditions.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-usability.md",
+    "header": "AR Battleship Task 4: Gameplay and Turn State",
+    "word_count": 78
+  },
+  {
+    "id": "ar-battleship-usability_005",
+    "text": "For Task 5, I instructed participants to take their turn using tags. Before they acted, I asked how they would use the given tags to play the game and what they would try first. After the first shot, I asked if the outcome matched what they expected to happen. As a facilitator, I observed whether participants experienced difficulty using tags to track input.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-usability.md",
+    "header": "AR Battleship Task 5: Tag Tracking and Input",
+    "word_count": 63
+  },
+  {
+    "id": "ar-battleship-usability_006",
+    "text": "During the end-game interview, I walked through experience, comprehension, AR integration, and satisfaction checks. For the experience check, I asked users to walk through their overall experience, what stood out, and moments where things clicked or didn't. For comprehension, I asked if they always knew whose turn it was, if button functions were clear before pressing, and if they had to figure out rules on their own. For the AR check, I asked if the AR feature felt natural or like a stretch, what multiplayer features the AR missed, and what belonged in a physical space rather than on a screen. I concluded by asking about satisfaction, whether they would play again, what would make it more compelling, and opened the floor for any final observations.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-usability.md",
+    "header": "AR Battleship End-Game Interview",
+    "word_count": 126
+  },
+  {
+    "id": "ar-battleship-usability_007",
+    "text": "As a final step in the usability testing session, I showed participants a QR code linking to a short survey containing 10 quick statements about the experience, asking them to rate each statement honestly.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\ar-battleship-usability.md",
+    "header": "AR Battlesion System Usability Scale",
+    "word_count": 34
+  },
+  {
+    "id": "forest-carbon-prediction_000",
+    "text": "Forests absorb carbon and play a significant role in combating climate change, but quantifying and predicting forest carbon sequestration across countries and time is difficult given how fragmented and multi-sourced the underlying data is. I built a predictive analytics pipeline that estimates forest carbon stocks using climate indicators and per-capita CO2 emissions data, implemented on cloud infrastructure to support distributed data processing and model training. The goal was to integrate three independent datasets\u00e2\u20ac\u201dNOAA GSOY, FAO FRA, and Our World in Data\u00e2\u20ac\u201dpreprocess and join them at scale, then train and evaluate multiple predictive models using Spark MLlib.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\forest-carbon-prediction.md",
+    "header": "Project Overview: Predicting Forest Carbon Stocks",
+    "word_count": 96
+  },
+  {
+    "id": "forest-carbon-prediction_001",
+    "text": "The project integrates three key datasets: FAO FRA 2020 for carbon in above-ground and below-ground biomass from 1990 to 2020; NOAA GSOY for station-level annual climate summaries including temperature, precipitation, wind, and degree-days; and Our World in Data for national CO2 emissions per-capita indicators. None of these datasets are included in the repository due to size; they must be downloaded from their respective sources and placed in `nbs/` or `nbs/data/` before running the notebook.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\forest-carbon-prediction.md",
+    "header": "Data Sources and Requirements",
+    "word_count": 74
+  },
+  {
+    "id": "forest-carbon-prediction_002",
+    "text": "The project's cloud infrastructure was built on Google Cloud Platform (GCP), using Dataproc for the managed Spark cluster, Cloud Storage (GCS) for dataset staging, and Compute Engine for training instances. I used Docker to package a local development environment running Hadoop HDFS, Spark master/workers, and Jupyter notebooks. This mirrors the cluster architecture, allowing the pipeline to run identically both locally and in the cloud via `docker-compose.yml`. HDFS served as the distributed backend storage layer for Spark computations.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\forest-carbon-prediction.md",
+    "header": "Cloud Architecture and Local Environment",
+    "word_count": 77
+  },
+  {
+    "id": "forest-carbon-prediction_003",
+    "text": "The pipeline parses multi-header FAO Excel sheets, matches NOAA weather stations to countries via nearest-centroid geospatial lookup to aggregate climate averages, and filters out aggregate rows from OWID CO2 data. Exploratory data analysis was performed on each cleaned dataset individually before merging all three sources on country and year, summing AGB and BGB into a single `carbon_total` target.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\forest-carbon-prediction.md",
+    "header": "Preprocessing and EDA",
+    "word_count": 58
+  },
+  {
+    "id": "forest-carbon-prediction_004",
+    "text": "For model training, I used a feature set of average temperature, precipitation, wind, and per-capita CO2 emissions with a 70/30 train-test split. I trained Linear Regression, Random Forest, Gradient Boosted Trees, and K-Means/PCA models via Spark MLlib. All intermediate and final tables are cached to HDFS as Parquet, and model performance metrics are visualized directly in the notebook.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\forest-carbon-prediction.md",
+    "header": "Training and Visualization",
+    "word_count": 58
+  },
+  {
+    "id": "forest-carbon-prediction_005",
+    "text": "The cloud environment utilized a single `n1-standard-4` instance with 4 vCPUs, 16 GB of RAM, and a 50 GB persistent disk hosted in the Sydney (`australia-southeast1`) region. The total usage time was 20 hours, resulting in a total monthly cost of $8.49.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\forest-carbon-prediction.md",
+    "header": "Cloud Resources and Cost",
+    "word_count": 42
+  },
+  {
+    "id": "forest-carbon-prediction_006",
+    "text": "Among the tested algorithms, Random Forest was the best performer with an R\u00c2\u00b2 of 0.240 and RMSE of 36.45, roughly 2.5 times the baseline R\u00c2\u00b2. It identified CO2 per capita as the most important feature at about 39% of split importance, followed by wind and temperature. Gradient Boosted Trees achieved an R\u00c2\u00b2 of 0.101 and Linear Regression achieved 0.091. K-Means clustering and PCA explored feature space structure, loosely separating countries by climate and emissions profile.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\forest-carbon-prediction.md",
+    "header": "Model Results",
+    "word_count": 75
+  },
+  {
+    "id": "forest-carbon-prediction_007",
+    "text": "An R\u00c2\u00b2 of 0.24 means the best model explains less than a quarter of the variance in forest carbon stocks. Key reasons include feature-target mismatch, since national climate averages and per-capita CO2 emissions are economic signals rather than direct drivers of forest biomass like deforestation or soil type. Additionally, spatial resolution mismatch washed out local carbon signals, CO2 per capita likely acted as an economic proxy rather than a causal driver, and the sample was a small, noisy set of roughly 190 countries by 5 years.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\forest-carbon-prediction.md",
+    "header": "Limitations and Underperformance",
+    "word_count": 86
+  },
+  {
+    "id": "forest-carbon-prediction_008",
+    "text": "To improve future iterations, I plan to incorporate satellite-derived vegetation indices like NDVI or higher-resolution land-cover data. Other next steps include adding deforestation and land-use-change features, modeling forest biome types separately instead of pooling all countries into one global regression, and moving from country-year rows to grid-cell rows via sources like NASA GEDI to test whether resolution was the primary limitation.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\forest-carbon-prediction.md",
+    "header": "Future Work",
+    "word_count": 61
+  },
+  {
+    "id": "forest-carbon-prediction_009",
+    "text": "The project relies on Google Cloud Platform including Dataproc, GCS, and Compute Engine, alongside Docker and Hadoop HDFS. For modeling and data manipulation, I used PySpark and Spark MLlib components including `VectorAssembler`, `StandardScaler`, `LinearRegression`, `RandomForestRegressor`, `GBTRegressor`, `KMeans`, and `PCA`, combined with pandas, seaborn, and matplotlib for EDA and visualization.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\forest-carbon-prediction.md",
+    "header": "Tech Stack",
+    "word_count": 49
+  },
+  {
+    "id": "momofin-system-design-specification_000",
+    "text": "The Momofin Document Verification System is a robust cryptography-based platform designed to ensure the integrity, authenticity, and validity of digital documents. It utilizes HMAC functions to generate hash strings that detect transmission tampering, alongside advanced encryption algorithms and dynamic QR codes to prevent forgery.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\momofin-system-design-specification.md",
+    "header": "Momofin Document Verification System Overview",
+    "word_count": 44
+  },
+  {
+    "id": "momofin-system-design-specification_001",
+    "text": "Our development stack for Momofin leverages PostgreSQL for database management, paired with JavaScript and Java across the application layers. The frontend is built with ReactJS while the backend runs on Spring Boot. We use Figma for UI/UX wireframing, GitHub for version control, and deploy our services on Koyeb and Vercel.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\momofin-system-design-specification.md",
+    "header": "Development Tools and Technology Stack",
+    "word_count": 50
+  },
+  {
+    "id": "momofin-system-design-specification_002",
+    "text": "Authentication requires users to first input their registered organization name. Once validated, users provide their company email and password. Access is denied with specific error messages if credentials fail. Authorization is structured across three tiers: Regular Users, Organization Admins, and Momofin System Admins, governing permissions from document editing to system-wide management.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\momofin-system-design-specification.md",
+    "header": "System Authentication and Access Control",
+    "word_count": 51
+  },
+  {
+    "id": "momofin-system-design-specification_003",
+    "text": "Regular users can upload documents under their organization, generate metadata-encoded QR codes, and verify document authenticity. The system supports a controlled editing workflow where owners grant temporary edit permissions that automatically revoke upon committing changes. Users can also view audit logs, revoke outdated documents, and manage their passwords.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\momofin-system-design-specification.md",
+    "header": "Core User Functionalities",
+    "word_count": 48
+  },
+  {
+    "id": "momofin-system-design-specification_004",
+    "text": "Organization admins manage encryption key pairs, configure organization profiles, and oversee local user accounts. Momofin system admins hold full platform control, managing all registered organizations, global users, and system-wide logs. Data migration and archiving policies ensure secure backups, encrypted credentials, and smooth transitions to production infrastructure.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\momofin-system-design-specification.md",
+    "header": "Administrative Management and System Architecture",
+    "word_count": 46
+  },
+  {
+    "id": "nutrient-profiles-analysis_000",
+    "text": "I built a machine learning pipeline that classifies foods into 23 major food groups using the AUSNUT 2023 taxonomy (AFCD 3 dataset, sheet \"All solids & liquids per 100 g\") based solely on their nutrient composition and measurements.\n\nThe core question of the project was whether major food groups can be accurately recovered from nutrient profiles alone, despite severe class imbalance, high dimensionality, and extensive missingness. The dataset contains 1,588 food items and 268 nutrient fields. After dropping 6 classes with fewer than 15 samples, I worked with 17 classes split via a stratified 80/20 split into 1,235 training and 309 test samples.\n\nMy final tuned Gradient Boosted Trees model achieved a **92.6% test accuracy** and **0.88 macro F1** score on the 17-class classification task.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\nutrient-profiles-analysis.md",
+    "header": "Nutrient Profiles Analysis: Food Group Classification Overview",
+    "word_count": 125
+  },
+  {
+    "id": "nutrient-profiles-analysis_001",
+    "text": "Through exploratory data analysis, I uncovered several strong structural patterns in the nutrient data:\n\n* **Moisture Content as a Discriminator:** Moisture content proved to be a powerful single discriminator. Dry and processed foods (fats and oils, snacks, confectionery) cluster near 0g, while fresh and minimally-processed foods (meat, fish, vegetables, dairy) cluster at 64 to 90g.\n* **Feature Prevalence and Redundancy:** Out of 268 features, 35 were zero across every category, 53 were non-zero in only 1 to 2 categories, and 128 spanned 6 or more categories. Group-level correlation analysis revealed strong within-group redundancy and a meaningful negative correlation between carbohydrates and fatty acids.\n* **Nutrient Exclusivity:** A deep dive into alcohol, caffeine, lactose, and cholesterol showed each acts as a near-perfect signal for a specific category (e.g., alcohol for alcoholic beverages, cholesterol for egg products with a median around 450mg).",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\nutrient-profiles-analysis.md",
+    "header": "Exploratory Data Analysis and Feature Insights",
+    "word_count": 140
+  },
+  {
+    "id": "nutrient-profiles-analysis_002",
+    "text": "To tackle high dimensionality and missing values, I implemented a rigorous preprocessing pipeline that reduced the feature space from **288 to 80 features**:\n\n* **Dimensionality Reduction:** Dropped 23 constant features and 165 features with greater than 30% missingness while carefully preserving predictive signal.\n* **Transformations and Imputation:** Applied a log1p transform on features with a skew greater than 2.0 (66 features transformed). For remaining nulls, I used EM-based iterative imputation (`IterativeImputer`, max_iter=10) rather than naive mean or median imputation, which was justified by the strong inter-nutrient correlation structure uncovered during EDA.\n* **Resampling Pipeline:** To correct severe class imbalance (where raw class counts ranged from 22 to 354), I applied a three-stage training-set-only pipeline using **SMOTE** (for classes below 50 samples), **RandomUnderSampler** (capping classes above 200 samples), and **TomekLinks** (removing borderline synthetic samples at class boundaries), followed by standard scaling and stratified 5-fold cross-validation.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\nutrient-profiles-analysis.md",
+    "header": "Preprocessing and Handling Missing Data",
+    "word_count": 144
+  },
+  {
+    "id": "nutrient-profiles-analysis_003",
+    "text": "To evaluate whether the problem was linearly separable or required complex non-linear models, I trained and tuned three distinct models using `RandomizedSearchCV` and Optuna (TPE sampler, 50 trials per model):",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\nutrient-profiles-analysis.md",
+    "header": "Modelling Strategy and Performance Results",
+    "word_count": 30
+  },
+  {
+    "id": "nutrient-profiles-analysis_004",
+    "text": "* **Logistic Regression:** Served as the linear baseline to test linear separability. It yielded a 0.929 CV balanced accuracy and 0.906 test accuracy (0.836 macro F1).\n* **Random Forest:** Tested whether non-linear, feature-interaction-aware methods beat the linear baseline, achieving a 0.920 test accuracy and 0.860 macro F1.\n* **Gradient Boosted Trees:** (`HistGradientBoostingClassifier`) Won on every test metric, achieving **0.926 test accuracy** and an **0.882 macro F1** (0.883 test balanced accuracy).",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\nutrient-profiles-analysis.md",
+    "header": "Modelling Strategy and Performance Results",
+    "word_count": 70
+  },
+  {
+    "id": "nutrient-profiles-analysis_005",
+    "text": "All three models exceeded 90% test accuracy despite the dataset's challenges. Interestingly, Logistic Regression had the best CV score but the worst test score, pointing to mild overfitting on the resampled training distribution. Gradient Boosting concentrated its feature importance heavily on **starch** (2x the next-ranked feature), followed by moisture and sodium, whereas Random Forest spread importance more evenly across roughly 20 features.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\nutrient-profiles-analysis.md",
+    "header": "Modelling Strategy and Performance Results",
+    "word_count": 62
+  },
+  {
+    "id": "nutrient-profiles-analysis_006",
+    "text": "The project yielded four primary takeaways:\n\n1. **Linear Separability:** The problem is largely linearly separable, as a regularized linear model reached 90.6% accuracy on its own.\n2. **Non-Linear Gains:** Non-linear models earn their complexity narrowly, with gains concentrated on nutritionally overlapping categories like Legumes versus Vegetables.\n3. **Nutritional Alignment:** Alcohol, cholesterol, moisture, and starch behave as near-exclusive biomarkers that align directly with nutrition science.\n4. **Validation Realities:** Confidence intervals overlap across all three models, confirming that test-set performance is a more reliable comparison axis than CV scores.\n\n**Limitations & Next Steps:**\nApplying SMOTE and undersampling before cross-validation introduced a minor resampling leakage risk that likely inflated CV estimates. Furthermore, dropping 165 features at a 30% missingness cutoff was conservative. In future iterations, I plan to wrap resampling inside an `imblearn` pipeline, explore dimensionality reduction across correlated nutrient groups, and extend classification to finer-grained 4-digit food categories.",
+    "category": "projects",
+    "source": "..\\data\\corpus\\projects\\nutrient-profiles-analysis.md",
+    "header": "Key Findings and Future Improvements",
+    "word_count": 146
+  }
+]
