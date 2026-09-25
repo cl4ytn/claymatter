@@ -1,0 +1,37 @@
+categories:
+  - key: "projects"
+    display_name: "Projects"
+    description: "Questions about specific projects built, code repositories, and design patterns."
+    seed_prompts:
+      - "What projects have you built?"
+      - "Walk me through one of your projects in detail."
+      - "Show me your portfolio projects."
+
+  - key: "background"
+    display_name: "Background"
+    description: "Inquiries regarding career history, past job roles, accomplishments, education, and credentials."
+    seed_prompts:
+      - "Where have you worked previously?"
+      - "Tell me about your work experience."
+      - "What is your educational background?"
+
+  - key: "contact"
+    display_name: "Contact Information"
+    description: "Recruiter inquiries regarding job availability, location, remote preferences, and contact details."
+    seed_prompts:
+      - "Are you currently open to job offers?"
+      - "How can I contact you?"
+
+  - key: "meta"
+    display_name: "clAy-I Architecture"
+    description: "Queries about how this specific AI assistant was constructed, hosted, fine-tuned, or routed."
+    seed_prompts:
+      - "How does this chatbot work?"
+      - "Can you explain the architecture of this chatbot?"
+
+  - key: "out_of_scope"
+    display_name: "Out of Scope"
+    description: "Irrelevant, off-topic, gibberish, or adversarial prompts that should be politely redirected back to portfolio topics."
+    seed_prompts:
+      - "Write a poem about space."
+      - "What is the capital of France?"
