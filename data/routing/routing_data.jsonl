@@ -1,0 +1,8 @@
+{"id": "cm_0001", "text": "What projects have you built recently?", "labels": ["projects"], "origin": "hand", "group_id": "grp_proj_001", "split": "train"}
+{"id": "cm_0002", "text": "What projcts have u built recntly?", "labels": ["projects"], "origin": "synthetic", "group_id": "grp_proj_001", "split": "train"}
+{"id": "cm_0003", "text": "Can you give me an overview of your portfolio work?", "labels": ["projects"], "origin": "synthetic", "group_id": "grp_proj_001", "split": "train"}
+{"id": "cm_0004", "text": "Where did you go to school and what is your degree?", "labels": ["background"], "origin": "hand", "group_id": "grp_back_001", "split": "val"}
+{"id": "cm_0005", "text": "Where did u go to scool and whats your degree?", "labels": ["background"], "origin": "synthetic", "group_id": "grp_back_001", "split": "val"}
+{"id": "cm_0006", "text": "Tell me about your previous work experience", "labels": ["background"], "origin": "hand", "group_id": "grp_back_002", "split": "train"}
+{"id": "cm_0007", "text": "How does the WebGPU visualization render activations?", "labels": ["technical_deep_dive", "meta"], "origin": "hand", "group_id": "grp_tech_001", "split": "train"}
+{"id": "cm_0008", "text": "Are you open to full-time remote roles right now?", "labels": ["hiring_and_contact"], "origin": "hand", "group_id": "grp_hire_001", "split": "train"}
